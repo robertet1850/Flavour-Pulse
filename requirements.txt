@@ -1,0 +1,7 @@
+streamlit>=1.45
+requests>=2.32
+pandas>=2.2
+beautifulsoup4>=4.12
+feedparser>=6.0
+pypdf>=5.0
+openpyxl>=3.1

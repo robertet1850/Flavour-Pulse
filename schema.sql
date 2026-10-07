@@ -1,0 +1,1 @@
+-- SQLite schema is initialized automatically by app.py on first launch.
